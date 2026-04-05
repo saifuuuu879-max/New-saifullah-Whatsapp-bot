@@ -1,0 +1,16 @@
+{
+  "name": "saif-ullah-pro-bot",
+  "version": "3.5.0",
+  "description": "WhatsApp Multi-Device Bot with AI, Flux, Weather and Bombing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "pino": "^8.14.1",
+    "axios": "^1.4.0",
+    "fs-extra": "^11.1.1",
+    "file-type": "^16.5.3"
+  }
+}
